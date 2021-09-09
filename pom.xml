@@ -123,10 +123,10 @@
         <maven_flatten_version>1.2.5</maven_flatten_version>
         <maven_enforce_version>3.0.0-M3</maven_enforce_version>
         <apache-rat-plugin.version>0.13</apache-rat-plugin.version>
-        <arguments />
+        <arguments/>
         <checkstyle.skip>true</checkstyle.skip>
         <rat.skip>true</rat.skip>
-        <revision>2.7.13-SNAPSHOT</revision>
+        <revision>2.7.13</revision>
     </properties>
 
     <modules>
